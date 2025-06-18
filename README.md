@@ -124,7 +124,7 @@ pytest tests/
 ### 🧑‍💻 开发者
 
 * Author: **龚文俊 Gong Wenjun**
-* Email: `your-email@example.com`
+* Email: `3430387198@qq.com`
 * GitHub: [@jokermaster83](https://github.com/jokermaster83)
 
 ---
@@ -132,7 +132,3 @@ pytest tests/
 ### 📜 License
 
 本项目采用 MIT 协议，详见 [LICENSE](./LICENSE)。
-
----
-
-如需我补充英文版 README、可视化示例图，或自动生成 `.gitattributes` / `.gitignore` 等附属文件，继续说。
