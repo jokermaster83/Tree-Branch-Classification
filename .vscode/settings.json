@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "plyconfig.json": "jsonc"
+  },
+  "python.REPL.enableREPLSmartSend": false
+}
